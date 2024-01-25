@@ -1,0 +1,1 @@
+This file contains HTML CSS code. It covers topics such as grids, position(absolute and relative), flexbox, display features among others. All the lessons are been utilized in the youtube page project.
